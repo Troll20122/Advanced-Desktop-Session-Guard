@@ -19,7 +19,7 @@ If you don't have Python installed, or if Windows opens the Microsoft Store inst
 * **Option A (Easy):** Click the green **"Code"** button at the top right of this GitHub page, then click **"Download ZIP"**. Extract the downloaded archive into any folder on your PC.
 * **Option B (Git):** Run this command in your terminal:
   ```bash
-  git clone https://github.com
+  git clone https://github.com/Troll20122/Advanced-Desktop-Session-Guard.git
   cd advanced-desktop-session-guard
   ```
 
@@ -36,7 +36,7 @@ This project relies on third-party libraries for networking and image rendering.
 Once everything is installed, you can launch the session locker:
 * **Via Terminal:** Inside your project folder, type:
   ```bash
-  python main.py
+  python Advanced-Desktop-Session-Guard.py
   ```
 * **Via Double-Click:** Alternatively, you can simply double-click the `main.py` file inside your folder to lock your workstation instantly.
 
